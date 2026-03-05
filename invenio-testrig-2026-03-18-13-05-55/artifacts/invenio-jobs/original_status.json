@@ -1,0 +1,51 @@
+{
+  "dependencies": [],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "6.1.1",
+      "base": null,
+      "branch": "v6.1.1",
+      "commit": "d6d5b6aca0d3a072643c358cfa73a421fb4baef0",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-jobs",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-jobs"
+    },
+    "slow_split": null,
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "8.0.0",
+      "base": null,
+      "branch": null,
+      "commit": "ad0563aae0ce213bf546d87eb74c8e1818fab5d1",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-jobs",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-jobs"
+    }
+  },
+  "status": "success"
+}

@@ -1,0 +1,961 @@
+ redis Pulling 
+ postgresql Pulling 
+ opensearch Pulling 
+ f9dd052e142d Pulling fs layer 
+ e8c6d4883897 Pulling fs layer 
+ 648eb81b3252 Pulling fs layer 
+ eb77aa907276 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 0ffa8f8aba1e Pulling fs layer 
+ 2e81b9cb93cd Pulling fs layer 
+ 4f4fb700ef54 Waiting 
+ 0ffa8f8aba1e Waiting 
+ 2e81b9cb93cd Waiting 
+ eb77aa907276 Waiting 
+ 6db0909c4473 Pulling fs layer 
+ 0ad69469b2c1 Pulling fs layer 
+ 28f8763f6967 Pulling fs layer 
+ a2d3656de701 Pulling fs layer 
+ 6db0909c4473 Waiting 
+ d57e1896e18b Pulling fs layer 
+ 0ad69469b2c1 Waiting 
+ 670819b67d90 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ baa7297a0cd4 Pulling fs layer 
+ 28f8763f6967 Waiting 
+ a2d3656de701 Waiting 
+ d57e1896e18b Waiting 
+ 4f4fb700ef54 Waiting 
+ 670819b67d90 Waiting 
+ baa7297a0cd4 Waiting 
+ b0a0cf830b12 Pulling fs layer 
+ dda3d8fbd5ed Pulling fs layer 
+ 283a477db7bb Pulling fs layer 
+ 91d2729fa4d5 Pulling fs layer 
+ b0a0cf830b12 Waiting 
+ 9739ced65621 Pulling fs layer 
+ ae3bb1b347a4 Pulling fs layer 
+ f8406d9c00ea Pulling fs layer 
+ c199bff16b05 Pulling fs layer 
+ dda3d8fbd5ed Waiting 
+ e0d55fdb4d15 Pulling fs layer 
+ 283a477db7bb Waiting 
+ c1cb13b19080 Pulling fs layer 
+ 873532e5f8c7 Pulling fs layer 
+ 050d9f8c3b1c Pulling fs layer 
+ 91d2729fa4d5 Waiting 
+ 710e142705f8 Pulling fs layer 
+ cb628c265f09 Pulling fs layer 
+ 9739ced65621 Waiting 
+ ae3bb1b347a4 Waiting 
+ f8406d9c00ea Waiting 
+ 873532e5f8c7 Waiting 
+ c199bff16b05 Waiting 
+ 050d9f8c3b1c Waiting 
+ e0d55fdb4d15 Waiting 
+ c1cb13b19080 Waiting 
+ 710e142705f8 Waiting 
+ 648eb81b3252 Downloading [=============>                                     ]     407B/1.561kB
+ 648eb81b3252 Download complete 
+ e8c6d4883897 Downloading [>                                                  ]  44.08kB/4.398MB
+ f9dd052e142d Downloading [>                                                  ]  524.3kB/52.33MB
+ e8c6d4883897 Verifying Checksum 
+ e8c6d4883897 Download complete 
+ eb77aa907276 Downloading [>                                                  ]  540.7kB/907.7MB
+ f9dd052e142d Downloading [======>                                            ]  6.904MB/52.33MB
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ eb77aa907276 Downloading [=>                                                 ]     22MB/907.7MB
+ f9dd052e142d Downloading [==============>                                    ]  14.81MB/52.33MB
+ 0ffa8f8aba1e Downloading [==================================================>]     226B/226B
+ 0ffa8f8aba1e Verifying Checksum 
+ 0ffa8f8aba1e Download complete 
+ eb77aa907276 Downloading [==>                                                ]  44.52MB/907.7MB
+ f9dd052e142d Downloading [====================>                              ]  21.15MB/52.33MB
+ 2e81b9cb93cd Downloading [==========>                                        ]     396B/1.859kB
+ 2e81b9cb93cd Downloading [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Verifying Checksum 
+ 2e81b9cb93cd Download complete 
+ eb77aa907276 Downloading [===>                                               ]  65.44MB/907.7MB
+ f9dd052e142d Downloading [===========================>                       ]   29.1MB/52.33MB
+ eb77aa907276 Downloading [====>                                              ]   84.2MB/907.7MB
+ 6db0909c4473 Downloading [>                                                  ]    287kB/28.24MB
+ f9dd052e142d Downloading [======================================>            ]  40.23MB/52.33MB
+ eb77aa907276 Downloading [=====>                                             ]  105.6MB/907.7MB
+ 6db0909c4473 Downloading [=============>                                     ]  7.586MB/28.24MB
+ f9dd052e142d Downloading [==============================================>    ]  48.16MB/52.33MB
+ f9dd052e142d Verifying Checksum 
+ f9dd052e142d Download complete 
+ eb77aa907276 Downloading [======>                                            ]  125.4MB/907.7MB
+ 6db0909c4473 Downloading [======================================>            ]  21.66MB/28.24MB
+ f9dd052e142d Extracting [>                                                  ]  524.3kB/52.33MB
+ 6db0909c4473 Verifying Checksum 
+ 6db0909c4473 Download complete 
+ 6db0909c4473 Extracting [>                                                  ]  294.9kB/28.24MB
+ eb77aa907276 Downloading [========>                                          ]  147.3MB/907.7MB
+ 0ad69469b2c1 Downloading [==================>                                ]     409B/1.101kB
+ 0ad69469b2c1 Downloading [==================================================>]  1.101kB/1.101kB
+ 0ad69469b2c1 Verifying Checksum 
+ 0ad69469b2c1 Download complete 
+ f9dd052e142d Extracting [=>                                                 ]  1.573MB/52.33MB
+ 28f8763f6967 Downloading [======================>                            ]     389B/874B
+ 28f8763f6967 Downloading [==================================================>]     874B/874B
+ 28f8763f6967 Verifying Checksum 
+ 28f8763f6967 Download complete 
+ 6db0909c4473 Extracting [=======>                                           ]  4.129MB/28.24MB
+ eb77aa907276 Downloading [========>                                          ]  162.8MB/907.7MB
+ a2d3656de701 Downloading [>                                                  ]  15.43kB/1.438MB
+ a2d3656de701 Verifying Checksum 
+ a2d3656de701 Download complete 
+ 6db0909c4473 Extracting [==============>                                    ]  8.258MB/28.24MB
+ eb77aa907276 Downloading [==========>                                        ]    188MB/907.7MB
+ d57e1896e18b Downloading [>                                                  ]  154.8kB/15.35MB
+ f9dd052e142d Extracting [====>                                              ]  4.719MB/52.33MB
+ 670819b67d90 Downloading [==================================================>]      94B/94B
+ 670819b67d90 Verifying Checksum 
+ 670819b67d90 Download complete 
+ eb77aa907276 Downloading [===========>                                       ]  213.6MB/907.7MB
+ d57e1896e18b Verifying Checksum 
+ d57e1896e18b Download complete 
+ 6db0909c4473 Extracting [=================>                                 ]  10.03MB/28.24MB
+ f9dd052e142d Extracting [=====>                                             ]  5.243MB/52.33MB
+ 4f4fb700ef54 Download complete 
+ eb77aa907276 Downloading [============>                                      ]    234MB/907.7MB
+ baa7297a0cd4 Downloading [==================================>                ]     389B/571B
+ baa7297a0cd4 Downloading [==================================================>]     571B/571B
+ baa7297a0cd4 Download complete 
+ 6db0909c4473 Extracting [========================>                          ]  13.57MB/28.24MB
+ f9dd052e142d Extracting [========>                                          ]  8.389MB/52.33MB
+ b0a0cf830b12 Downloading [>                                                  ]    298kB/29.15MB
+ eb77aa907276 Downloading [==============>                                    ]  257.5MB/907.7MB
+ dda3d8fbd5ed Downloading [=================>                                 ]     407B/1.165kB
+ dda3d8fbd5ed Downloading [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Verifying Checksum 
+ dda3d8fbd5ed Download complete 
+ 6db0909c4473 Extracting [==================================>                ]  19.46MB/28.24MB
+ f9dd052e142d Extracting [============>                                      ]  13.11MB/52.33MB
+ b0a0cf830b12 Downloading [===============================>                   ]  18.19MB/29.15MB
+ eb77aa907276 Downloading [===============>                                   ]  278.4MB/907.7MB
+ 283a477db7bb Downloading [>                                                  ]  45.52kB/4.533MB
+ 6db0909c4473 Extracting [=========================================>         ]   23.3MB/28.24MB
+ 283a477db7bb Verifying Checksum 
+ 283a477db7bb Download complete 
+ f9dd052e142d Extracting [=================>                                 ]  17.83MB/52.33MB
+ eb77aa907276 Downloading [================>                                  ]  305.2MB/907.7MB
+ b0a0cf830b12 Downloading [===========================================>       ]  25.65MB/29.15MB
+ b0a0cf830b12 Verifying Checksum 
+ b0a0cf830b12 Download complete 
+ f9dd052e142d Extracting [=====================>                             ]  22.54MB/52.33MB
+ b0a0cf830b12 Extracting [>                                                  ]  294.9kB/29.15MB
+ eb77aa907276 Downloading [==================>                                ]  327.1MB/907.7MB
+ 91d2729fa4d5 Downloading [>                                                  ]  15.42kB/1.45MB
+ 91d2729fa4d5 Verifying Checksum 
+ 91d2729fa4d5 Download complete 
+ 6db0909c4473 Extracting [==========================================>        ]  23.89MB/28.24MB
+ b0a0cf830b12 Extracting [======>                                            ]  3.539MB/29.15MB
+ 9739ced65621 Downloading [>                                                  ]  84.61kB/8.069MB
+ eb77aa907276 Downloading [===================>                               ]  347.4MB/907.7MB
+ f9dd052e142d Extracting [=========================>                         ]  26.74MB/52.33MB
+ ae3bb1b347a4 Downloading [>                                                  ]  12.31kB/1.196MB
+ ae3bb1b347a4 Downloading [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Verifying Checksum 
+ ae3bb1b347a4 Download complete 
+ 6db0909c4473 Extracting [==============================================>    ]  26.25MB/28.24MB
+ 9739ced65621 Downloading [================================>                  ]  5.276MB/8.069MB
+ 9739ced65621 Verifying Checksum 
+ 9739ced65621 Download complete 
+ eb77aa907276 Downloading [====================>                              ]  363.5MB/907.7MB
+ b0a0cf830b12 Extracting [===========>                                       ]  6.783MB/29.15MB
+ f9dd052e142d Extracting [===========================>                       ]  28.31MB/52.33MB
+ 6db0909c4473 Extracting [===============================================>   ]  26.84MB/28.24MB
+ f8406d9c00ea Downloading [==================================================>]     116B/116B
+ f8406d9c00ea Verifying Checksum 
+ f8406d9c00ea Download complete 
+ eb77aa907276 Downloading [=====================>                             ]  388.1MB/907.7MB
+ b0a0cf830b12 Extracting [================>                                  ]  9.437MB/29.15MB
+ c199bff16b05 Downloading [======>                                            ]     407B/3.145kB
+ c199bff16b05 Downloading [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Verifying Checksum 
+ c199bff16b05 Download complete 
+ f9dd052e142d Extracting [============================>                      ]  29.36MB/52.33MB
+ eb77aa907276 Downloading [======================>                            ]  403.7MB/907.7MB
+ b0a0cf830b12 Extracting [==================>                                ]  10.62MB/29.15MB
+ e0d55fdb4d15 Downloading [>                                                  ]  538.6kB/109MB
+ c1cb13b19080 Downloading [=>                                                 ]     376B/9.925kB
+ c1cb13b19080 Downloading [==================================================>]  9.925kB/9.925kB
+ c1cb13b19080 Verifying Checksum 
+ c1cb13b19080 Download complete 
+ eb77aa907276 Downloading [=======================>                           ]  428.8MB/907.7MB
+ f9dd052e142d Extracting [============================>                      ]  29.88MB/52.33MB
+ b0a0cf830b12 Extracting [====================>                              ]  12.09MB/29.15MB
+ e0d55fdb4d15 Downloading [======>                                            ]  13.88MB/109MB
+ 873532e5f8c7 Downloading [==================================================>]     128B/128B
+ 873532e5f8c7 Verifying Checksum 
+ 873532e5f8c7 Download complete 
+ eb77aa907276 Downloading [========================>                          ]  444.4MB/907.7MB
+ b0a0cf830b12 Extracting [===========================>                       ]  16.22MB/29.15MB
+ e0d55fdb4d15 Downloading [========>                                          ]  17.63MB/109MB
+ f9dd052e142d Extracting [=============================>                     ]  30.41MB/52.33MB
+ 050d9f8c3b1c Downloading [==================================================>]     169B/169B
+ 050d9f8c3b1c Verifying Checksum 
+ 050d9f8c3b1c Download complete 
+ eb77aa907276 Downloading [=========================>                         ]  456.2MB/907.7MB
+ b0a0cf830b12 Extracting [====================================>              ]  21.23MB/29.15MB
+ e0d55fdb4d15 Downloading [============>                                      ]  27.77MB/109MB
+ f9dd052e142d Extracting [===============================>                   ]  32.51MB/52.33MB
+ 6db0909c4473 Extracting [================================================>  ]  27.43MB/28.24MB
+ eb77aa907276 Downloading [==========================>                        ]  479.2MB/907.7MB
+ 710e142705f8 Downloading [===>                                               ]     408B/5.421kB
+ 710e142705f8 Downloading [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Verifying Checksum 
+ 710e142705f8 Download complete 
+ b0a0cf830b12 Extracting [========================================>          ]  23.89MB/29.15MB
+ e0d55fdb4d15 Downloading [==================>                                ]  39.57MB/109MB
+ eb77aa907276 Downloading [===========================>                       ]  502.8MB/907.7MB
+ 6db0909c4473 Extracting [=================================================> ]  28.02MB/28.24MB
+ f9dd052e142d Extracting [===============================>                   ]  33.03MB/52.33MB
+ cb628c265f09 Downloading [==================================================>]     184B/184B
+ cb628c265f09 Verifying Checksum 
+ cb628c265f09 Download complete 
+ e0d55fdb4d15 Downloading [=====================>                             ]  47.62MB/109MB
+ 6db0909c4473 Extracting [==================================================>]  28.24MB/28.24MB
+ eb77aa907276 Downloading [============================>                      ]  517.7MB/907.7MB
+ 6db0909c4473 Pull complete 
+ 0ad69469b2c1 Extracting [==================================================>]  1.101kB/1.101kB
+ 0ad69469b2c1 Extracting [==================================================>]  1.101kB/1.101kB
+ f9dd052e142d Extracting [=================================>                 ]   34.6MB/52.33MB
+ b0a0cf830b12 Extracting [==========================================>        ]  24.77MB/29.15MB
+ e0d55fdb4d15 Downloading [=========================>                         ]  55.07MB/109MB
+ eb77aa907276 Downloading [=============================>                     ]  540.8MB/907.7MB
+ b0a0cf830b12 Extracting [=============================================>     ]  26.25MB/29.15MB
+ e0d55fdb4d15 Downloading [==============================>                    ]  66.26MB/109MB
+ eb77aa907276 Downloading [==============================>                    ]  562.2MB/907.7MB
+ f9dd052e142d Extracting [==================================>                ]  36.18MB/52.33MB
+ e0d55fdb4d15 Downloading [=======================================>           ]  86.05MB/109MB
+ f9dd052e142d Extracting [===================================>               ]  37.22MB/52.33MB
+ eb77aa907276 Downloading [================================>                  ]  589.6MB/907.7MB
+ e0d55fdb4d15 Downloading [=============================================>     ]  98.36MB/109MB
+ eb77aa907276 Downloading [=================================>                 ]  615.3MB/907.7MB
+ e0d55fdb4d15 Downloading [================================================>  ]  105.9MB/109MB
+ b0a0cf830b12 Extracting [===============================================>   ]  27.72MB/29.15MB
+ eb77aa907276 Downloading [==================================>                ]  627.1MB/907.7MB
+ e0d55fdb4d15 Verifying Checksum 
+ e0d55fdb4d15 Download complete 
+ eb77aa907276 Downloading [==================================>                ]  634.6MB/907.7MB
+ eb77aa907276 Downloading [====================================>              ]  656.1MB/907.7MB
+ f9dd052e142d Extracting [====================================>              ]  37.75MB/52.33MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.02MB/29.15MB
+ eb77aa907276 Downloading [=====================================>             ]    677MB/907.7MB
+ f9dd052e142d Extracting [======================================>            ]  39.85MB/52.33MB
+ eb77aa907276 Downloading [======================================>            ]  695.7MB/907.7MB
+ f9dd052e142d Extracting [========================================>          ]  41.94MB/52.33MB
+ eb77aa907276 Downloading [======================================>            ]  707.5MB/907.7MB
+ f9dd052e142d Extracting [==========================================>        ]  44.56MB/52.33MB
+ b0a0cf830b12 Extracting [================================================>  ]  28.31MB/29.15MB
+ eb77aa907276 Downloading [=======================================>           ]  719.3MB/907.7MB
+ f9dd052e142d Extracting [============================================>      ]  46.14MB/52.33MB
+ b0a0cf830b12 Extracting [=================================================> ]   28.9MB/29.15MB
+ eb77aa907276 Downloading [========================================>          ]  734.8MB/907.7MB
+ eb77aa907276 Downloading [=========================================>         ]  749.8MB/907.7MB
+ f9dd052e142d Extracting [=============================================>     ]  47.71MB/52.33MB
+ b0a0cf830b12 Extracting [==================================================>]  29.15MB/29.15MB
+ eb77aa907276 Downloading [==========================================>        ]  770.1MB/907.7MB
+ b0a0cf830b12 Pull complete 
+ eb77aa907276 Downloading [===========================================>       ]  788.4MB/907.7MB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ dda3d8fbd5ed Extracting [==================================================>]  1.165kB/1.165kB
+ eb77aa907276 Downloading [===========================================>       ]  796.5MB/907.7MB
+ eb77aa907276 Downloading [=============================================>     ]  822.7MB/907.7MB
+ f9dd052e142d Extracting [=================================================> ]  51.38MB/52.33MB
+ eb77aa907276 Downloading [==============================================>    ]    849MB/907.7MB
+ eb77aa907276 Downloading [================================================>  ]  878.6MB/907.7MB
+ f9dd052e142d Extracting [=================================================> ]   51.9MB/52.33MB
+ f9dd052e142d Extracting [==================================================>]  52.33MB/52.33MB
+ eb77aa907276 Downloading [=================================================> ]  905.5MB/907.7MB
+ eb77aa907276 Verifying Checksum 
+ eb77aa907276 Download complete 
+ f9dd052e142d Pull complete 
+ e8c6d4883897 Extracting [>                                                  ]  65.54kB/4.398MB
+ e8c6d4883897 Extracting [==========>                                        ]  917.5kB/4.398MB
+ e8c6d4883897 Extracting [======================>                            ]  1.966MB/4.398MB
+ e8c6d4883897 Extracting [=============================>                     ]  2.621MB/4.398MB
+ e8c6d4883897 Extracting [================================>                  ]  2.818MB/4.398MB
+ e8c6d4883897 Extracting [================================>                  ]  2.884MB/4.398MB
+ e8c6d4883897 Extracting [=================================>                 ]  2.949MB/4.398MB
+ e8c6d4883897 Extracting [===================================>               ]  3.146MB/4.398MB
+ 0ad69469b2c1 Pull complete 
+ 28f8763f6967 Extracting [==================================================>]     874B/874B
+ 28f8763f6967 Extracting [==================================================>]     874B/874B
+ dda3d8fbd5ed Pull complete 
+ 28f8763f6967 Pull complete 
+ a2d3656de701 Extracting [=>                                                 ]  32.77kB/1.438MB
+ 283a477db7bb Extracting [>                                                  ]  65.54kB/4.533MB
+ a2d3656de701 Extracting [==================================================>]  1.438MB/1.438MB
+ a2d3656de701 Extracting [==================================================>]  1.438MB/1.438MB
+ e8c6d4883897 Extracting [======================================>            ]  3.408MB/4.398MB
+ a2d3656de701 Pull complete 
+ d57e1896e18b Extracting [>                                                  ]  163.8kB/15.35MB
+ 283a477db7bb Extracting [=================================================> ]  4.522MB/4.533MB
+ 283a477db7bb Extracting [==================================================>]  4.533MB/4.533MB
+ e8c6d4883897 Extracting [==================================================>]  4.398MB/4.398MB
+ e8c6d4883897 Pull complete 
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ 648eb81b3252 Extracting [==================================================>]  1.561kB/1.561kB
+ d57e1896e18b Extracting [==================>                                ]  5.571MB/15.35MB
+ 648eb81b3252 Pull complete 
+ 283a477db7bb Pull complete 
+ 91d2729fa4d5 Extracting [=>                                                 ]  32.77kB/1.45MB
+ 91d2729fa4d5 Extracting [==================================================>]   1.45MB/1.45MB
+ eb77aa907276 Extracting [>                                                  ]  557.1kB/907.7MB
+ 91d2729fa4d5 Pull complete 
+ 9739ced65621 Extracting [>                                                  ]   98.3kB/8.069MB
+ d57e1896e18b Extracting [=====================================>             ]  11.63MB/15.35MB
+ d57e1896e18b Extracting [==================================================>]  15.35MB/15.35MB
+ eb77aa907276 Extracting [>                                                  ]  11.14MB/907.7MB
+ 9739ced65621 Extracting [==================>                                ]  3.047MB/8.069MB
+ d57e1896e18b Pull complete 
+ 670819b67d90 Extracting [==================================================>]      94B/94B
+ 670819b67d90 Extracting [==================================================>]      94B/94B
+ 670819b67d90 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ baa7297a0cd4 Extracting [==================================================>]     571B/571B
+ baa7297a0cd4 Extracting [==================================================>]     571B/571B
+ baa7297a0cd4 Pull complete 
+ redis Pulled 
+ eb77aa907276 Extracting [=>                                                 ]  26.74MB/907.7MB
+ 9739ced65621 Extracting [============================>                      ]   4.62MB/8.069MB
+ eb77aa907276 Extracting [==>                                                ]  43.45MB/907.7MB
+ 9739ced65621 Extracting [====================================>              ]  5.898MB/8.069MB
+ eb77aa907276 Extracting [===>                                               ]  62.95MB/907.7MB
+ 9739ced65621 Extracting [==================================================>]  8.069MB/8.069MB
+ 9739ced65621 Pull complete 
+ ae3bb1b347a4 Extracting [=>                                                 ]  32.77kB/1.196MB
+ eb77aa907276 Extracting [====>                                              ]  81.33MB/907.7MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Extracting [==================================================>]  1.196MB/1.196MB
+ ae3bb1b347a4 Pull complete 
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Extracting [==================================================>]     116B/116B
+ f8406d9c00ea Pull complete 
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Extracting [==================================================>]  3.145kB/3.145kB
+ c199bff16b05 Pull complete 
+ eb77aa907276 Extracting [====>                                              ]  87.46MB/907.7MB
+ e0d55fdb4d15 Extracting [>                                                  ]  557.1kB/109MB
+ eb77aa907276 Extracting [=====>                                             ]   94.7MB/907.7MB
+ e0d55fdb4d15 Extracting [==>                                                ]  6.128MB/109MB
+ eb77aa907276 Extracting [=====>                                             ]  101.9MB/907.7MB
+ e0d55fdb4d15 Extracting [====>                                              ]  8.913MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  109.7MB/907.7MB
+ eb77aa907276 Extracting [======>                                            ]    117MB/907.7MB
+ e0d55fdb4d15 Extracting [=====>                                             ]  12.81MB/109MB
+ eb77aa907276 Extracting [======>                                            ]  124.2MB/907.7MB
+ e0d55fdb4d15 Extracting [=======>                                           ]  16.71MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  131.5MB/907.7MB
+ e0d55fdb4d15 Extracting [=========>                                         ]  20.61MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  138.1MB/907.7MB
+ e0d55fdb4d15 Extracting [===========>                                       ]  24.51MB/109MB
+ eb77aa907276 Extracting [=======>                                           ]  143.7MB/907.7MB
+ e0d55fdb4d15 Extracting [=============>                                     ]  30.08MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  149.8MB/907.7MB
+ e0d55fdb4d15 Extracting [================>                                  ]  36.77MB/109MB
+ eb77aa907276 Extracting [========>                                          ]  156.5MB/907.7MB
+ e0d55fdb4d15 Extracting [===================>                               ]  43.45MB/109MB
+ eb77aa907276 Extracting [=========>                                         ]    166MB/907.7MB
+ e0d55fdb4d15 Extracting [=======================>                           ]  50.69MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  183.3MB/907.7MB
+ e0d55fdb4d15 Extracting [========================>                          ]  54.03MB/109MB
+ eb77aa907276 Extracting [==========>                                        ]  198.9MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================>                        ]  58.49MB/109MB
+ eb77aa907276 Extracting [===========>                                       ]  212.2MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================>                     ]  65.18MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  222.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================>                 ]  73.53MB/109MB
+ eb77aa907276 Extracting [============>                                      ]  230.6MB/907.7MB
+ e0d55fdb4d15 Extracting [====================================>              ]  80.22MB/109MB
+ eb77aa907276 Extracting [=============>                                     ]  238.4MB/907.7MB
+ e0d55fdb4d15 Extracting [========================================>          ]  88.01MB/109MB
+ eb77aa907276 Extracting [=============>                                     ]  247.9MB/907.7MB
+ e0d55fdb4d15 Extracting [==========================================>        ]  92.47MB/109MB
+ eb77aa907276 Extracting [==============>                                    ]  263.5MB/907.7MB
+ e0d55fdb4d15 Extracting [===========================================>       ]   94.7MB/109MB
+ eb77aa907276 Extracting [===============>                                   ]  279.1MB/907.7MB
+ e0d55fdb4d15 Extracting [============================================>      ]  96.93MB/109MB
+ eb77aa907276 Extracting [================>                                  ]  300.3MB/907.7MB
+ e0d55fdb4d15 Extracting [=============================================>     ]  99.16MB/109MB
+ eb77aa907276 Extracting [=================>                                 ]  316.4MB/907.7MB
+ e0d55fdb4d15 Extracting [==============================================>    ]  101.9MB/109MB
+ eb77aa907276 Extracting [==================>                                ]  332.6MB/907.7MB
+ e0d55fdb4d15 Extracting [===============================================>   ]  103.6MB/109MB
+ eb77aa907276 Extracting [===================>                               ]  350.4MB/907.7MB
+ eb77aa907276 Extracting [===================>                               ]  361.5MB/907.7MB
+ e0d55fdb4d15 Extracting [================================================>  ]  105.3MB/109MB
+ eb77aa907276 Extracting [====================>                              ]  368.2MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]    107MB/109MB
+ eb77aa907276 Extracting [====================>                              ]  374.3MB/907.7MB
+ eb77aa907276 Extracting [=====================>                             ]  392.2MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  107.5MB/109MB
+ eb77aa907276 Extracting [======================>                            ]  410.6MB/907.7MB
+ eb77aa907276 Extracting [=======================>                           ]  434.5MB/907.7MB
+ e0d55fdb4d15 Extracting [=================================================> ]  108.6MB/109MB
+ e0d55fdb4d15 Extracting [==================================================>]    109MB/109MB
+ eb77aa907276 Extracting [=========================>                         ]  456.8MB/907.7MB
+ eb77aa907276 Extracting [==========================>                        ]  478.5MB/907.7MB
+ eb77aa907276 Extracting [===========================>                       ]  503.6MB/907.7MB
+ eb77aa907276 Extracting [=============================>                     ]  528.6MB/907.7MB
+ eb77aa907276 Extracting [==============================>                    ]  553.7MB/907.7MB
+ eb77aa907276 Extracting [===============================>                   ]  579.3MB/907.7MB
+ eb77aa907276 Extracting [=================================>                 ]  604.4MB/907.7MB
+ eb77aa907276 Extracting [==================================>                ]  629.5MB/907.7MB
+ eb77aa907276 Extracting [====================================>              ]  655.7MB/907.7MB
+ eb77aa907276 Extracting [=====================================>             ]  681.8MB/907.7MB
+ eb77aa907276 Extracting [=======================================>           ]  708.6MB/907.7MB
+ eb77aa907276 Extracting [========================================>          ]    732MB/907.7MB
+ eb77aa907276 Extracting [=========================================>         ]    752MB/907.7MB
+ eb77aa907276 Extracting [==========================================>        ]  772.6MB/907.7MB
+ eb77aa907276 Extracting [===========================================>       ]  784.3MB/907.7MB
+ eb77aa907276 Extracting [============================================>      ]  803.8MB/907.7MB
+ eb77aa907276 Extracting [=============================================>     ]  823.3MB/907.7MB
+ eb77aa907276 Extracting [==============================================>    ]  842.3MB/907.7MB
+ eb77aa907276 Extracting [===============================================>   ]  860.1MB/907.7MB
+ eb77aa907276 Extracting [================================================>  ]    879MB/907.7MB
+ eb77aa907276 Extracting [=================================================> ]  900.2MB/907.7MB
+ eb77aa907276 Extracting [==================================================>]  907.7MB/907.7MB
+ e0d55fdb4d15 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ eb77aa907276 Pull complete 
+ c1cb13b19080 Extracting [==================================================>]  9.925kB/9.925kB
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ 0ffa8f8aba1e Extracting [==================================================>]     226B/226B
+ c1cb13b19080 Pull complete 
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 873532e5f8c7 Extracting [==================================================>]     128B/128B
+ 0ffa8f8aba1e Pull complete 
+ 873532e5f8c7 Pull complete 
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 2e81b9cb93cd Extracting [==================================================>]  1.859kB/1.859kB
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 050d9f8c3b1c Extracting [==================================================>]     169B/169B
+ 2e81b9cb93cd Pull complete 
+ 050d9f8c3b1c Pull complete 
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ 710e142705f8 Extracting [==================================================>]  5.421kB/5.421kB
+ opensearch Pulled 
+ 710e142705f8 Pull complete 
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Extracting [==================================================>]     184B/184B
+ cb628c265f09 Pull complete 
+ postgresql Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-opensearch-1  Creating
+ Container docker_services_cli-postgresql-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-postgresql-1  Created
+ Container docker_services_cli-opensearch-1  Created
+ Container docker_services_cli-opensearch-1  Starting
+ Container docker_services_cli-postgresql-1  Starting
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-postgresql-1  Started
+ Container docker_services_cli-redis-1  Started
+ Container docker_services_cli-opensearch-1  Started
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py,line=64::Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py,line=65::Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py,line=66::Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_vocabularies/config.py,line=15::Implicit imports (e.g., 'import idutils; idutils.function;') might be removed in the next major version. Please use explicit imports (e.g., 'from idutils import function;') instead.
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original
+configfile: setup.cfg
+plugins: github-actions-annotate-failures-0.4.0, isort-4.0.0, flask-1.3.0, invenio-4.0.1, pydocstyle-2.4.0, cov-7.0.0, black-0.6.0, pycodestyle-2.5.0, Faker-40.11.0
+collected 756 items
+
+invenio_communities/__init__.py ...                                      [  0%]
+invenio_communities/administration/__init__.py ...                       [  0%]
+invenio_communities/administration/communities.py ...                    [  1%]
+invenio_communities/alembic/__init__.py ...                              [  1%]
+invenio_communities/alembic/02cd82910727_update_role_id_type_upgrade.py . [  1%]
+..                                                                       [  1%]
+invenio_communities/alembic/37b21951084c_update_role_id_type_downgrade.py . [  2%]
+..                                                                       [  2%]
+invenio_communities/alembic/5b478fe7ef7f_create_featured_communities_table.py . [  2%]
+..                                                                       [  2%]
+invenio_communities/alembic/5c68d45c80f0_add_deletion_status_to_communities.py . [  2%]
+..                                                                       [  3%]
+invenio_communities/alembic/72b37bb4119c_create_indeces_for_bucket_id.py . [  3%]
+..                                                                       [  3%]
+invenio_communities/alembic/90642d415317_create_communities_branch.py .. [  3%]
+.                                                                        [  3%]
+invenio_communities/alembic/a3f5a8635cbb_remove_version_table.py ...     [  4%]
+invenio_communities/alembic/c3feb26c7041_change_datetime_types.py ...    [  4%]
+invenio_communities/alembic/de9c14cbb0b2_create_communities_tables.py .. [  5%]
+.                                                                        [  5%]
+invenio_communities/alembic/dfbc96c5211f_add_group_notification_preference.py . [  5%]
+..                                                                       [  5%]
+invenio_communities/alembic/f701a32e6fbe_create_communities_members_table.py . [  5%]
+..                                                                       [  5%]
+invenio_communities/alembic/fbe746957cfc_create_member_tables.py ...     [  6%]
+invenio_communities/cache/__init__.py ...                                [  6%]
+invenio_communities/cache/cache.py ...                                   [  7%]
+invenio_communities/cache/redis.py ...                                   [  7%]
+invenio_communities/cli.py ...                                           [  7%]
+invenio_communities/communities/__init__.py ...                          [  8%]
+invenio_communities/communities/dumpers/__init__.py ...                  [  8%]
+invenio_communities/communities/dumpers/featured.py ...                  [  9%]
+invenio_communities/communities/entity_resolvers.py ...                  [  9%]
+invenio_communities/communities/records/__init__.py ...                  [  9%]
+invenio_communities/communities/records/api.py ...                       [ 10%]
+invenio_communities/communities/records/jsonschemas/__init__.py ...      [ 10%]
+invenio_communities/communities/records/mappings/__init__.py ...         [ 11%]
+invenio_communities/communities/records/mappings/os-v1/__init__.py ...   [ 11%]
+invenio_communities/communities/records/mappings/os-v2/__init__.py ...   [ 11%]
+invenio_communities/communities/records/mappings/v7/__init__.py ...      [ 12%]
+invenio_communities/communities/records/models.py ...                    [ 12%]
+invenio_communities/communities/records/systemfields/__init__.py ...     [ 13%]
+invenio_communities/communities/records/systemfields/access.py ...       [ 13%]
+invenio_communities/communities/records/systemfields/children.py ...     [ 13%]
+invenio_communities/communities/records/systemfields/deletion_status.py . [ 14%]
+..                                                                       [ 14%]
+invenio_communities/communities/records/systemfields/is_verified.py ...  [ 14%]
+invenio_communities/communities/records/systemfields/parent_community.py . [ 14%]
+..                                                                       [ 15%]
+invenio_communities/communities/records/systemfields/pidslug.py ...      [ 15%]
+invenio_communities/communities/records/systemfields/tombstone.py ...    [ 15%]
+invenio_communities/communities/resources/__init__.py ...                [ 16%]
+invenio_communities/communities/resources/args.py ...                    [ 16%]
+invenio_communities/communities/resources/config.py ...                  [ 17%]
+invenio_communities/communities/resources/resource.py ...                [ 17%]
+invenio_communities/communities/resources/serializer.py ...              [ 17%]
+invenio_communities/communities/resources/ui_schema.py ...               [ 18%]
+invenio_communities/communities/schema.py ...                            [ 18%]
+invenio_communities/communities/services/__init__.py ...                 [ 19%]
+invenio_communities/communities/services/components.py ...               [ 19%]
+invenio_communities/communities/services/config.py ...                   [ 19%]
+invenio_communities/communities/services/facets.py ...                   [ 20%]
+invenio_communities/communities/services/links.py ...                    [ 20%]
+invenio_communities/communities/services/results.py ...                  [ 21%]
+invenio_communities/communities/services/search_params.py ...            [ 21%]
+invenio_communities/communities/services/service.py ...                  [ 21%]
+invenio_communities/communities/services/sort.py ...                     [ 22%]
+invenio_communities/communities/services/uow.py ...                      [ 22%]
+invenio_communities/config.py ...                                        [ 23%]
+invenio_communities/errors.py ...                                        [ 23%]
+invenio_communities/ext.py ...                                           [ 23%]
+invenio_communities/fixtures/__init__.py ...                             [ 24%]
+invenio_communities/fixtures/demo.py ...                                 [ 24%]
+invenio_communities/fixtures/tasks.py ...                                [ 25%]
+invenio_communities/generators.py ...                                    [ 25%]
+invenio_communities/members/__init__.py ...                              [ 25%]
+invenio_communities/members/errors.py ...                                [ 26%]
+invenio_communities/members/records/__init__.py ...                      [ 26%]
+invenio_communities/members/records/api.py ...                           [ 26%]
+invenio_communities/members/records/mappings/__init__.py ...             [ 27%]
+invenio_communities/members/records/mappings/os-v1/__init__.py ...       [ 27%]
+invenio_communities/members/records/mappings/os-v2/__init__.py ...       [ 28%]
+invenio_communities/members/records/mappings/v7/__init__.py ...          [ 28%]
+invenio_communities/members/records/models.py ...                        [ 28%]
+invenio_communities/members/resources/__init__.py ...                    [ 29%]
+invenio_communities/members/resources/config.py ...                      [ 29%]
+invenio_communities/members/resources/resource.py ...                    [ 30%]
+invenio_communities/members/services/__init__.py ...                     [ 30%]
+invenio_communities/members/services/components.py ...                   [ 30%]
+invenio_communities/members/services/config.py ...                       [ 31%]
+invenio_communities/members/services/facets.py ...                       [ 31%]
+invenio_communities/members/services/fields.py ...                       [ 32%]
+invenio_communities/members/services/request.py ...                      [ 32%]
+invenio_communities/members/services/schemas.py ...                      [ 32%]
+invenio_communities/members/services/service.py ...                      [ 33%]
+invenio_communities/notifications/__init__.py ...                        [ 33%]
+invenio_communities/notifications/builders.py ...                        [ 34%]
+invenio_communities/notifications/generators.py ...                      [ 34%]
+invenio_communities/permissions.py ...                                   [ 34%]
+invenio_communities/proxies.py ...                                       [ 35%]
+invenio_communities/records/__init__.py ...                              [ 35%]
+invenio_communities/records/records/__init__.py ...                      [ 36%]
+invenio_communities/records/records/models.py ...                        [ 36%]
+invenio_communities/records/records/systemfields/__init__.py ...         [ 36%]
+invenio_communities/records/records/systemfields/communities/__init__.py . [ 37%]
+..                                                                       [ 37%]
+invenio_communities/records/records/systemfields/communities/context.py . [ 37%]
+..                                                                       [ 37%]
+invenio_communities/records/records/systemfields/communities/field.py .. [ 37%]
+.                                                                        [ 38%]
+invenio_communities/records/records/systemfields/communities/manager.py . [ 38%]
+..                                                                       [ 38%]
+invenio_communities/requests/user_moderation/__init__.py ...             [ 38%]
+invenio_communities/requests/user_moderation/actions.py ...              [ 39%]
+invenio_communities/requests/user_moderation/tasks.py ...                [ 39%]
+invenio_communities/roles.py ...                                         [ 40%]
+invenio_communities/searchapp.py ...                                     [ 40%]
+invenio_communities/subcommunities/__init__.py ...                       [ 40%]
+invenio_communities/subcommunities/resources/__init__.py ...             [ 41%]
+invenio_communities/subcommunities/resources/config.py ...               [ 41%]
+invenio_communities/subcommunities/resources/resource.py ...             [ 42%]
+invenio_communities/subcommunities/services/__init__.py ...              [ 42%]
+invenio_communities/subcommunities/services/config.py ...                [ 42%]
+invenio_communities/subcommunities/services/errors.py ...                [ 43%]
+invenio_communities/subcommunities/services/request.py ...               [ 43%]
+invenio_communities/subcommunities/services/schema.py ...                [ 44%]
+invenio_communities/subcommunities/services/service.py ...               [ 44%]
+invenio_communities/tasks.py ...                                         [ 44%]
+invenio_communities/utils.py ...                                         [ 45%]
+invenio_communities/views/__init__.py ...                                [ 45%]
+invenio_communities/views/api.py ...                                     [ 46%]
+invenio_communities/views/communities.py ...                             [ 46%]
+invenio_communities/views/decorators.py ...                              [ 46%]
+invenio_communities/views/template_loader.py ...                         [ 47%]
+invenio_communities/views/ui.py ...                                      [ 47%]
+invenio_communities/webpack.py ...                                       [ 48%]
+setup.py ...                                                             [ 48%]
+tests/__init__.py ...                                                    [ 48%]
+tests/cache/__init__.py ...                                              [ 49%]
+tests/cache/test_identity_redis_cache.py ......                          [ 50%]
+tests/communities/__init__.py ...                                        [ 50%]
+tests/communities/conftest.py ...                                        [ 50%]
+tests/communities/test_alembic.py ..s                                    [ 51%]
+tests/communities/test_cli.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.                                       [ 51%]
+tests/communities/test_community_ui_serializer.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+                    [ 52%]
+tests/communities/test_components.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.....                            [ 53%]
+tests/communities/test_parent_community.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.....                      [ 54%]
+tests/communities/test_permissions.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+                                [ 54%]
+tests/communities/test_relations_organizations.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.....               [ 55%]
+tests/communities/test_relations_types.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.....                       [ 56%]
+tests/communities/test_resources.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+..................                [ 59%]
+tests/communities/test_services.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.....................              [ 62%]
+tests/communities/test_subcommunities.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+....                         [ 63%]
+tests/communities/test_tombstone.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+......                            [ 64%]
+tests/communities/test_ui.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+                                         [ 65%]
+tests/communities/tests_views.py ...                                     [ 65%]
+tests/conftest.py ...                                                    [ 66%]
+tests/members/__init__.py ...                                            [ 66%]
+tests/members/conftest.py ...                                            [ 66%]
+tests/members/test_members_components.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+....                         [ 67%]
+tests/members/test_members_group_notifications.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.................   [ 70%]
+tests/members/test_members_group_notifications_resource.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.......... [ 72%]
+..                                                                       [ 72%]
+tests/members/test_members_no_groups.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.......                       [ 73%]
+tests/members/test_members_notifications.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+....                      [ 74%]
+tests/members/test_members_resource.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+................               [ 77%]
+tests/members/test_members_services.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+.............................. [ 81%]
+........................................................................ [ 91%]
+......................                                                   [ 93%]
+tests/mock_module/__init__.py ...                                        [ 94%]
+tests/records/__init__.py ...                                            [ 94%]
+tests/records/conftest.py ...                                            [ 95%]
+tests/records/mock_module/__init__.py ...                                [ 95%]
+tests/records/mock_module/api.py ...                                     [ 95%]
+tests/records/mock_module/jsonschemas/__init__.py ...                    [ 96%]
+tests/records/mock_module/mappings/__init__.py ...                       [ 96%]
+tests/records/mock_module/mappings/v6/__init__.py ...                    [ 97%]
+tests/records/mock_module/mappings/v7/__init__.py ...                    [ 97%]
+tests/records/mock_module/models.py ...                                  [ 97%]
+tests/records/test_mockrecords_api.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_search/ext.py,line=128::OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module tests.records.mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+..........                      [ 99%]
+tests/test_notifications.py ...::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py,line=171::It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py,line=169::Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+::warning file=workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py,line=29::CSRF validation will be enabled by default in the version 1.3.x
+                                          [100%]
+
+=============================== warnings summary ===============================
+.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:64
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:64: DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+    "self": RequestFileLink("{+api}/requests/{request_id}/files/{key}"),
+
+.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:65
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:65: DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+    "content": RequestFileLink("{+api}/requests/{request_id}/files/{key}/content"),
+
+.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:66
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_requests/services/files/config.py:66: DeprecationWarning: Link is deprecated and will be removed in v14.0. Use `ExternalLink` for third-party links and `EndpointLink` for InvenioRDM links.
+    "download_html": RequestFileLink("{+ui}/requests/{request_id}/files/{key}"),
+
+.venv/lib/python3.14/site-packages/invenio_vocabularies/config.py:15
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_vocabularies/config.py:15: DeprecationWarning: Implicit imports (e.g., 'import idutils; idutils.function;') might be removed in the next major version. Please use explicit imports (e.g., 'from idutils import function;') instead.
+    from idutils import is_doi, is_gnd, is_isni, is_orcid, is_ror, is_url
+
+tests/communities/test_cli.py: 1 warning
+tests/communities/test_community_ui_serializer.py: 1 warning
+tests/communities/test_components.py: 1 warning
+tests/communities/test_parent_community.py: 1 warning
+tests/communities/test_permissions.py: 1 warning
+tests/communities/test_relations_organizations.py: 1 warning
+tests/communities/test_relations_types.py: 1 warning
+tests/communities/test_resources.py: 1 warning
+tests/communities/test_services.py: 1 warning
+tests/communities/test_subcommunities.py: 1 warning
+tests/communities/test_tombstone.py: 1 warning
+tests/communities/test_ui.py: 1 warning
+tests/members/test_members_components.py: 1 warning
+tests/members/test_members_group_notifications.py: 1 warning
+tests/members/test_members_group_notifications_resource.py: 1 warning
+tests/members/test_members_no_groups.py: 1 warning
+tests/members/test_members_notifications.py: 1 warning
+tests/members/test_members_resource.py: 1 warning
+tests/members/test_members_services.py: 1 warning
+tests/records/test_mockrecords_api.py: 1 warning
+tests/test_notifications.py: 1 warning
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_db/ext.py:171: UserWarning: It looks like you are manually setting `SQLALCHEMY_ENGINE_OPTIONS` without specifying a UTC timezone value for PostgreSQL. To avoid unexpected behaviour, InvenioDB won't add an override to these options to set the time zone to UTC. Please note that PostgreSQL databases used with Invenio must be in UTC. If your database or connection is configured with a non-UTC timezone, please change this before continuing to avoid unexpected behaviour.
+    warnings.warn(
+
+tests/communities/test_cli.py: 1 warning
+tests/communities/test_community_ui_serializer.py: 1 warning
+tests/communities/test_components.py: 1 warning
+tests/communities/test_parent_community.py: 1 warning
+tests/communities/test_permissions.py: 1 warning
+tests/communities/test_relations_organizations.py: 1 warning
+tests/communities/test_relations_types.py: 1 warning
+tests/communities/test_resources.py: 1 warning
+tests/communities/test_services.py: 1 warning
+tests/communities/test_subcommunities.py: 1 warning
+tests/communities/test_tombstone.py: 1 warning
+tests/communities/test_ui.py: 1 warning
+tests/members/test_members_components.py: 1 warning
+tests/members/test_members_group_notifications.py: 1 warning
+tests/members/test_members_group_notifications_resource.py: 1 warning
+tests/members/test_members_no_groups.py: 1 warning
+tests/members/test_members_notifications.py: 1 warning
+tests/members/test_members_resource.py: 1 warning
+tests/members/test_members_services.py: 1 warning
+tests/records/test_mockrecords_api.py: 1 warning
+tests/test_notifications.py: 1 warning
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_oaiserver/ext.py:169: UserWarning: Please specify the OAISERVER_ID_PREFIX configuration.default value is: oai:runnervm46oaq:
+    warnings.warn(
+
+tests/communities/test_cli.py: 1 warning
+tests/communities/test_community_ui_serializer.py: 1 warning
+tests/communities/test_components.py: 1 warning
+tests/communities/test_parent_community.py: 1 warning
+tests/communities/test_permissions.py: 1 warning
+tests/communities/test_relations_organizations.py: 1 warning
+tests/communities/test_relations_types.py: 1 warning
+tests/communities/test_resources.py: 1 warning
+tests/communities/test_services.py: 1 warning
+tests/communities/test_subcommunities.py: 1 warning
+tests/communities/test_tombstone.py: 1 warning
+tests/communities/test_ui.py: 1 warning
+tests/members/test_members_components.py: 1 warning
+tests/members/test_members_group_notifications.py: 1 warning
+tests/members/test_members_group_notifications_resource.py: 1 warning
+tests/members/test_members_no_groups.py: 1 warning
+tests/members/test_members_notifications.py: 1 warning
+tests/members/test_members_resource.py: 1 warning
+tests/members/test_members_services.py: 1 warning
+tests/records/test_mockrecords_api.py: 1 warning
+tests/test_notifications.py: 1 warning
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_rest/ext.py:29: FutureWarning: CSRF validation will be enabled by default in the version 1.3.x
+    self.init_app(app)
+
+tests/records/test_mockrecords_api.py::test_record_create_empty
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-communities/original/.venv/lib/python3.14/site-packages/invenio_search/ext.py:128: UserWarning: OpenSearch v2 mappings files not found, falling back to Elasticsearch v7 mappings for module tests.records.mock_module.mappings. Please add the missing OpenSearch os-v2 mappings.
+    warnings.warn(
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                                                                             Stmts   Miss  Cover   Missing
+--------------------------------------------------------------------------------------------------------------
+invenio_communities/__init__.py                                                      4      0   100%
+invenio_communities/administration/__init__.py                                       0      0   100%
+invenio_communities/administration/communities.py                                   42      1    98%   78
+invenio_communities/alembic/02cd82910727_update_role_id_type_upgrade.py             13      5    62%   33-55, 67
+invenio_communities/alembic/5b478fe7ef7f_create_featured_communities_table.py       12      2    83%   24, 54
+invenio_communities/alembic/5c68d45c80f0_add_deletion_status_to_communities.py      27     18    33%   22-43, 49-62, 67
+invenio_communities/alembic/37b21951084c_update_role_id_type_downgrade.py           13      5    62%   22, 27-51
+invenio_communities/alembic/72b37bb4119c_create_indeces_for_bucket_id.py            11      4    64%   21-27, 37-40
+invenio_communities/alembic/90642d415317_create_communities_branch.py                8      2    75%   20, 25
+invenio_communities/alembic/__init__.py                                              0      0   100%
+invenio_communities/alembic/a3f5a8635cbb_remove_version_table.py                    22     12    45%   24-40, 48-111
+invenio_communities/alembic/c3feb26c7041_change_datetime_types.py                   15      8    47%   25-34, 41-50
+invenio_communities/alembic/de9c14cbb0b2_create_communities_tables.py               24     14    42%   25-171, 178-193
+invenio_communities/alembic/dfbc96c5211f_add_group_notification_preference.py       16      8    50%   24-53, 62-63
+invenio_communities/alembic/f701a32e6fbe_create_communities_members_table.py        14      4    71%   24-65, 75-76
+invenio_communities/alembic/fbe746957cfc_create_member_tables.py                    36     26    28%   27-147, 157-196
+invenio_communities/cache/__init__.py                                                0      0   100%
+invenio_communities/cache/cache.py                                                  18      0   100%
+invenio_communities/cache/redis.py                                                  29      1    97%   64
+invenio_communities/cli.py                                                          76     21    72%   47-49, 56-62, 69-74, 99-100, 108-112, 124-126
+invenio_communities/communities/__init__.py                                          3      0   100%
+invenio_communities/communities/dumpers/__init__.py                                  0      0   100%
+invenio_communities/communities/dumpers/featured.py                                 16      0   100%
+invenio_communities/communities/entity_resolvers.py                                 32      9    72%   35-48, 69, 80
+invenio_communities/communities/records/__init__.py                                  0      0   100%
+invenio_communities/communities/records/api.py                                      45      0   100%
+invenio_communities/communities/records/jsonschemas/__init__.py                      0      0   100%
+invenio_communities/communities/records/mappings/__init__.py                         0      0   100%
+invenio_communities/communities/records/mappings/os-v1/__init__.py                   0      0   100%
+invenio_communities/communities/records/mappings/os-v2/__init__.py                   0      0   100%
+invenio_communities/communities/records/mappings/v7/__init__.py                      0      0   100%
+invenio_communities/communities/records/models.py                                   22      0   100%
+invenio_communities/communities/records/systemfields/__init__.py                     0      0   100%
+invenio_communities/communities/records/systemfields/access.py                     151     14    91%   136, 148, 154, 159, 170, 187, 199, 245, 269, 289-296, 309
+invenio_communities/communities/records/systemfields/children.py                    50      3    94%   31, 74, 77
+invenio_communities/communities/records/systemfields/deletion_status.py             59      6    90%   57, 61, 70, 75-78
+invenio_communities/communities/records/systemfields/is_verified.py                 11      0   100%
+invenio_communities/communities/records/systemfields/parent_community.py            53      2    96%   63-64
+invenio_communities/communities/records/systemfields/pidslug.py                     44      3    93%   41, 51, 67
+invenio_communities/communities/records/systemfields/tombstone.py                   96      4    96%   44, 140, 146, 178
+invenio_communities/communities/resources/__init__.py                                3      0   100%
+invenio_communities/communities/resources/args.py                                    5      0   100%
+invenio_communities/communities/resources/config.py                                 21      0   100%
+invenio_communities/communities/resources/resource.py                               91      6    93%   73-78, 89-96, 162-168
+invenio_communities/communities/resources/serializer.py                              5      0   100%
+invenio_communities/communities/resources/ui_schema.py                              76     17    78%   35-36, 51-62, 124-128, 135
+invenio_communities/communities/schema.py                                          124      0   100%
+invenio_communities/communities/services/__init__.py                                 4      0   100%
+invenio_communities/communities/services/components.py                             188     10    95%   46, 57, 65, 80, 257, 283-284, 327, 331, 348
+invenio_communities/communities/services/config.py                                  52      2    96%   81-85
+invenio_communities/communities/services/facets.py                                   6      0   100%
+invenio_communities/communities/services/links.py                                   34      1    97%   75
+invenio_communities/communities/services/results.py                                 37      3    92%   76, 80, 100
+invenio_communities/communities/services/search_params.py                           14      1    93%   27
+invenio_communities/communities/services/service.py                                258     21    92%   127, 305-306, 473, 480, 520-547, 634-638, 674-680, 716
+invenio_communities/communities/services/sort.py                                    10      2    80%   32-33
+invenio_communities/communities/services/uow.py                                     14      0   100%
+invenio_communities/config.py                                                       50      0   100%
+invenio_communities/errors.py                                                       29      1    97%   66
+invenio_communities/ext.py                                                          73     10    86%   138-139, 144-189
+invenio_communities/fixtures/__init__.py                                             0      0   100%
+invenio_communities/fixtures/demo.py                                                 5      0   100%
+invenio_communities/fixtures/tasks.py                                               42     13    69%   38-39, 42-43, 45-50, 76-79
+invenio_communities/generators.py                                                  180     24    87%   75, 106-111, 151-152, 200-205, 209-210, 214-215, 235, 239, 283, 293, 297, 363, 377, 395
+invenio_communities/members/__init__.py                                              4      0   100%
+invenio_communities/members/errors.py                                                3      0   100%
+invenio_communities/members/records/__init__.py                                      3      0   100%
+invenio_communities/members/records/api.py                                         100      2    98%   100-103
+invenio_communities/members/records/mappings/__init__.py                             0      0   100%
+invenio_communities/members/records/mappings/os-v1/__init__.py                       0      0   100%
+invenio_communities/members/records/mappings/os-v2/__init__.py                       0      0   100%
+invenio_communities/members/records/mappings/v7/__init__.py                          0      0   100%
+invenio_communities/members/records/models.py                                       56      2    96%   107-108
+invenio_communities/members/resources/__init__.py                                    3      0   100%
+invenio_communities/members/resources/config.py                                     13      0   100%
+invenio_communities/members/resources/resource.py                                   57      0   100%
+invenio_communities/members/services/__init__.py                                     3      0   100%
+invenio_communities/members/services/components.py                                  45      9    80%   34, 37, 41-48, 69
+invenio_communities/members/services/config.py                                      46      0   100%
+invenio_communities/members/services/facets.py                                       7      0   100%
+invenio_communities/members/services/fields.py                                      22      8    64%   38-45
+invenio_communities/members/services/request.py                                     53      0   100%
+invenio_communities/members/services/schemas.py                                     85      0   100%
+invenio_communities/members/services/service.py                                    248      9    96%   380, 577, 753, 757, 761, 765, 870, 875, 881
+invenio_communities/notifications/__init__.py                                        0      0   100%
+invenio_communities/notifications/builders.py                                       85      1    99%   309
+invenio_communities/notifications/generators.py                                     35      2    94%   57, 67
+invenio_communities/permissions.py                                                  49      0   100%
+invenio_communities/proxies.py                                                       8      0   100%
+invenio_communities/records/__init__.py                                              0      0   100%
+invenio_communities/records/records/__init__.py                                      0      0   100%
+invenio_communities/records/records/models.py                                       17      0   100%
+invenio_communities/records/records/systemfields/__init__.py                         2      0   100%
+invenio_communities/records/records/systemfields/communities/__init__.py             0      0   100%
+invenio_communities/records/records/systemfields/communities/context.py              4      1    75%   28
+invenio_communities/records/records/systemfields/communities/field.py               40     14    65%   59, 64-111, 115-118
+invenio_communities/records/records/systemfields/communities/manager.py             99      2    98%   167, 208
+invenio_communities/requests/user_moderation/__init__.py                             2      0   100%
+invenio_communities/requests/user_moderation/actions.py                             40     28    30%   32-60, 70-85, 95-99, 108-117
+invenio_communities/requests/user_moderation/tasks.py                               16      8    50%   19-25, 31-35
+invenio_communities/roles.py                                                        61      1    98%   80
+invenio_communities/searchapp.py                                                     5      1    80%   18
+invenio_communities/subcommunities/__init__.py                                       3      0   100%
+invenio_communities/subcommunities/resources/__init__.py                             3      0   100%
+invenio_communities/subcommunities/resources/config.py                              20      0   100%
+invenio_communities/subcommunities/resources/resource.py                            18      0   100%
+invenio_communities/subcommunities/services/__init__.py                              4      0   100%
+invenio_communities/subcommunities/services/config.py                               22      0   100%
+invenio_communities/subcommunities/services/errors.py                                2      0   100%
+invenio_communities/subcommunities/services/request.py                              67     16    76%   50-57, 96-108, 116-128, 137-144, 187, 200
+invenio_communities/subcommunities/services/schema.py                               16      1    94%   49
+invenio_communities/subcommunities/services/service.py                              62     11    82%   45, 55, 84, 119, 136, 166-175
+invenio_communities/tasks.py                                                         5      1    80%   22
+invenio_communities/utils.py                                                        55      5    91%   107, 110-113
+invenio_communities/views/__init__.py                                                3      0   100%
+invenio_communities/views/api.py                                                    11      0   100%
+invenio_communities/views/communities.py                                           172    107    38%   169, 179-191, 196, 201, 209-210, 218-219, 231-260, 269-277, 296-309, 329-334, 346-371, 388-392, 404-414, 433-437, 455-459, 471-475, 489-492, 505-509, 522-525, 537-546
+invenio_communities/views/decorators.py                                             27     10    63%   28-38, 51-57
+invenio_communities/views/template_loader.py                                        24      2    92%   46-47
+invenio_communities/views/ui.py                                                     87     35    60%   54, 59-70, 81-84, 89, 100-103, 108-111, 116-123, 243-245, 250-260, 269
+invenio_communities/webpack.py                                                       2      0   100%
+--------------------------------------------------------------------------------------------------------------
+TOTAL                                                                             4097    559    86%
+=========== 755 passed, 1 skipped, 68 warnings in 241.89s (0:04:01) ============
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-postgresql-1  Stopping
+ Container docker_services_cli-opensearch-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Container docker_services_cli-postgresql-1  Stopped
+ Container docker_services_cli-postgresql-1  Removing
+ Container docker_services_cli-opensearch-1  Stopped
+ Container docker_services_cli-opensearch-1  Removing
+ Container docker_services_cli-opensearch-1  Removed
+ Container docker_services_cli-postgresql-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed

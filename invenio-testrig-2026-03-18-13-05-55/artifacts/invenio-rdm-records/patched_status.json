@@ -1,0 +1,169 @@
+{
+  "dependencies": [
+    {
+      "extras": [
+        "tests",
+        "opensearch2",
+        "s3",
+        "devs",
+        "s3fs",
+        "oaipmh",
+        "rdf",
+        "sparql",
+        "postgresql",
+        "admin"
+      ],
+      "freeze": [
+        "setuptools<82.0.0"
+      ],
+      "patched_reference": {
+        "actual_version": "26.0.0",
+        "base": null,
+        "branch": null,
+        "commit": "39eb8d1098a4be94f307b30517772da47b3dfbcb",
+        "commits_from_version": [],
+        "org": "inveniosoftware",
+        "package": "invenio-rdm-records",
+        "pr": null,
+        "pr_info": null,
+        "repo": "invenio-rdm-records"
+      },
+      "patches": [
+        {
+          "actual_version": null,
+          "base": null,
+          "branch": null,
+          "commit": "b1031675cb35fe6ca8716551600d530d5b1704de",
+          "commits_from_version": null,
+          "org": "inveniosoftware",
+          "package": "invenio-rdm-records",
+          "pr": 2279,
+          "pr_info": {
+            "commits": [
+              "b1031675cb35fe6ca8716551600d530d5b1704de"
+            ],
+            "source_branch": "contribution-add-record-param",
+            "source_org": "oarepo",
+            "source_repo": "invenio-rdm-records"
+          },
+          "repo": "invenio-rdm-records"
+        }
+      ],
+      "reference": {
+        "actual_version": "22.7.3",
+        "base": null,
+        "branch": "v22.7.3",
+        "commit": "0c89a21d81fbdd185982b76faf6b0055e9efca70",
+        "commits_from_version": [],
+        "org": "inveniosoftware",
+        "package": "invenio-rdm-records",
+        "pr": null,
+        "pr_info": null,
+        "repo": "invenio-rdm-records"
+      },
+      "slow_split": [
+        "tests/resources/test_iiif_image_api.py",
+        "tests/resources/test_resources_review.py",
+        "tests/services/test_rdm_service.py"
+      ],
+      "test": [
+        "./run-tests.sh"
+      ],
+      "unpatched_reference": {
+        "actual_version": "26.0.0",
+        "base": null,
+        "branch": null,
+        "commit": "39eb8d1098a4be94f307b30517772da47b3dfbcb",
+        "commits_from_version": [],
+        "org": "inveniosoftware",
+        "package": "invenio-rdm-records",
+        "pr": null,
+        "pr_info": null,
+        "repo": "invenio-rdm-records"
+      }
+    }
+  ],
+  "package": {
+    "extras": [
+      "tests",
+      "opensearch2",
+      "s3",
+      "devs",
+      "s3fs",
+      "oaipmh",
+      "rdf",
+      "sparql",
+      "postgresql",
+      "admin"
+    ],
+    "freeze": [
+      "setuptools<82.0.0"
+    ],
+    "patched_reference": {
+      "actual_version": "26.0.0",
+      "base": null,
+      "branch": null,
+      "commit": "39eb8d1098a4be94f307b30517772da47b3dfbcb",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    },
+    "patches": [
+      {
+        "actual_version": null,
+        "base": null,
+        "branch": null,
+        "commit": "b1031675cb35fe6ca8716551600d530d5b1704de",
+        "commits_from_version": null,
+        "org": "inveniosoftware",
+        "package": "invenio-rdm-records",
+        "pr": 2279,
+        "pr_info": {
+          "commits": [
+            "b1031675cb35fe6ca8716551600d530d5b1704de"
+          ],
+          "source_branch": "contribution-add-record-param",
+          "source_org": "oarepo",
+          "source_repo": "invenio-rdm-records"
+        },
+        "repo": "invenio-rdm-records"
+      }
+    ],
+    "reference": {
+      "actual_version": "22.7.3",
+      "base": null,
+      "branch": "v22.7.3",
+      "commit": "0c89a21d81fbdd185982b76faf6b0055e9efca70",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    },
+    "slow_split": [
+      "tests/resources/test_iiif_image_api.py",
+      "tests/resources/test_resources_review.py",
+      "tests/services/test_rdm_service.py"
+    ],
+    "test": [
+      "./run-tests.sh"
+    ],
+    "unpatched_reference": {
+      "actual_version": "26.0.0",
+      "base": null,
+      "branch": null,
+      "commit": "39eb8d1098a4be94f307b30517772da47b3dfbcb",
+      "commits_from_version": [],
+      "org": "inveniosoftware",
+      "package": "invenio-rdm-records",
+      "pr": null,
+      "pr_info": null,
+      "repo": "invenio-rdm-records"
+    }
+  },
+  "status": "success"
+}

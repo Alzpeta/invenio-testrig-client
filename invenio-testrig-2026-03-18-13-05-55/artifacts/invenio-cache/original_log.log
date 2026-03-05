@@ -1,0 +1,148 @@
+ redis Pulling 
+ 6db0909c4473 Pulling fs layer 
+ 0ad69469b2c1 Pulling fs layer 
+ 28f8763f6967 Pulling fs layer 
+ a2d3656de701 Pulling fs layer 
+ d57e1896e18b Pulling fs layer 
+ 670819b67d90 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ baa7297a0cd4 Pulling fs layer 
+ a2d3656de701 Waiting 
+ d57e1896e18b Waiting 
+ 670819b67d90 Waiting 
+ 4f4fb700ef54 Waiting 
+ baa7297a0cd4 Waiting 
+ 0ad69469b2c1 Downloading [==================>                                ]     408B/1.101kB
+ 0ad69469b2c1 Download complete 
+ 28f8763f6967 Downloading [======================>                            ]     389B/874B
+ 28f8763f6967 Downloading [==================================================>]     874B/874B
+ 28f8763f6967 Verifying Checksum 
+ 28f8763f6967 Download complete 
+ 6db0909c4473 Downloading [>                                                  ]  286.9kB/28.24MB
+ 6db0909c4473 Downloading [================================>                  ]  18.42MB/28.24MB
+ 6db0909c4473 Verifying Checksum 
+ 6db0909c4473 Download complete 
+ 6db0909c4473 Extracting [>                                                  ]  294.9kB/28.24MB
+ a2d3656de701 Downloading [>                                                  ]  15.43kB/1.438MB
+ d57e1896e18b Downloading [>                                                  ]  154.6kB/15.35MB
+ a2d3656de701 Verifying Checksum 
+ a2d3656de701 Download complete 
+ 6db0909c4473 Extracting [==========>                                        ]  5.898MB/28.24MB
+ d57e1896e18b Verifying Checksum 
+ d57e1896e18b Download complete 
+ 670819b67d90 Downloading [==================================================>]      94B/94B
+ 670819b67d90 Verifying Checksum 
+ 670819b67d90 Download complete 
+ 6db0909c4473 Extracting [================>                                  ]  9.437MB/28.24MB
+ 4f4fb700ef54 Downloading [==================================================>]      32B/32B
+ 4f4fb700ef54 Verifying Checksum 
+ 4f4fb700ef54 Download complete 
+ 6db0909c4473 Extracting [========================>                          ]  13.86MB/28.24MB
+ baa7297a0cd4 Downloading [==================================>                ]     389B/571B
+ baa7297a0cd4 Downloading [==================================================>]     571B/571B
+ baa7297a0cd4 Verifying Checksum 
+ baa7297a0cd4 Download complete 
+ 6db0909c4473 Extracting [=======================================>           ]  22.12MB/28.24MB
+ 6db0909c4473 Extracting [==========================================>        ]  23.89MB/28.24MB
+ 6db0909c4473 Extracting [===============================================>   ]  26.84MB/28.24MB
+ 6db0909c4473 Extracting [================================================>  ]  27.43MB/28.24MB
+ 6db0909c4473 Extracting [==================================================>]  28.24MB/28.24MB
+ 6db0909c4473 Pull complete 
+ 0ad69469b2c1 Extracting [==================================================>]  1.101kB/1.101kB
+ 0ad69469b2c1 Extracting [==================================================>]  1.101kB/1.101kB
+ 0ad69469b2c1 Pull complete 
+ 28f8763f6967 Extracting [==================================================>]     874B/874B
+ 28f8763f6967 Extracting [==================================================>]     874B/874B
+ 28f8763f6967 Pull complete 
+ a2d3656de701 Extracting [=>                                                 ]  32.77kB/1.438MB
+ a2d3656de701 Extracting [==================================================>]  1.438MB/1.438MB
+ a2d3656de701 Extracting [==================================================>]  1.438MB/1.438MB
+ a2d3656de701 Pull complete 
+ d57e1896e18b Extracting [>                                                  ]  163.8kB/15.35MB
+ d57e1896e18b Extracting [===========================>                       ]  8.356MB/15.35MB
+ d57e1896e18b Extracting [==================================================>]  15.35MB/15.35MB
+ d57e1896e18b Pull complete 
+ 670819b67d90 Extracting [==================================================>]      94B/94B
+ 670819b67d90 Extracting [==================================================>]      94B/94B
+ 670819b67d90 Pull complete 
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Extracting [==================================================>]      32B/32B
+ 4f4fb700ef54 Pull complete 
+ baa7297a0cd4 Extracting [==================================================>]     571B/571B
+ baa7297a0cd4 Extracting [==================================================>]     571B/571B
+ baa7297a0cd4 Pull complete 
+ redis Pulled 
+ Network docker_services_cli_default  Creating
+ Network docker_services_cli_default  Created
+ Container docker_services_cli-redis-1  Creating
+ Container docker_services_cli-redis-1  Created
+ Container docker_services_cli-redis-1  Starting
+ Container docker_services_cli-redis-1  Started
+============================= test session starts ==============================
+platform linux -- Python 3.14.2, pytest-8.4.2, pluggy-1.6.0
+rootdir: /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-cache/original
+configfile: setup.cfg
+testpaths: tests, invenio_cache
+plugins: mock-3.15.1, github-actions-annotate-failures-0.4.0, isort-4.0.0, flask-1.3.0, invenio-4.0.1, pydocstyle-2.4.0, cov-7.0.0, black-0.6.0, pycodestyle-2.5.0
+collected 53 items
+
+tests/conftest.py ...                                                    [  5%]
+tests/test_bccache.py ...::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+                                                [ 11%]
+tests/test_decorator.py ...::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.                                             [ 18%]
+tests/test_invenio_cache.py ....::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+..                                    [ 35%]
+tests/test_locks.py ...::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+.::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+                                               [ 47%]
+invenio_cache/__init__.py ....::warning file=workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py,line=145::Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+                                           [ 54%]
+invenio_cache/_compat.py ...                                             [ 60%]
+invenio_cache/bccache.py ...                                             [ 66%]
+invenio_cache/config.py ...                                              [ 71%]
+invenio_cache/decorators.py ...                                          [ 77%]
+invenio_cache/errors.py ...                                              [ 83%]
+invenio_cache/ext.py ...                                                 [ 88%]
+invenio_cache/lock.py ...                                                [ 94%]
+invenio_cache/proxies.py ...                                             [100%]
+
+=============================== warnings summary ===============================
+tests/test_bccache.py: 1 warning
+tests/test_decorator.py: 1 warning
+tests/test_invenio_cache.py: 5 warnings
+tests/test_locks.py: 4 warnings
+invenio_cache/__init__.py: 1 warning
+  /home/runner/work/invenio-testrig-client/invenio-testrig-client/workdir/tests/invenio-cache/original/.venv/lib/python3.14/site-packages/flask_caching/__init__.py:145: DeprecationWarning: Using the initialization functions in flask_caching.backend is deprecated.  Use the a full path to backend classes directly.
+    self._set_cache(app, config)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.14.2-final-0 ________________
+
+Name                          Stmts   Miss  Cover   Missing
+-----------------------------------------------------------
+invenio_cache/__init__.py         7      0   100%
+invenio_cache/_compat.py          4      0   100%
+invenio_cache/bccache.py          7      0   100%
+invenio_cache/config.py           8      0   100%
+invenio_cache/decorators.py      46      0   100%
+invenio_cache/errors.py          14      1    93%   21
+invenio_cache/ext.py             28      0   100%
+invenio_cache/lock.py            70     11    84%   70, 80, 84, 88, 92, 157, 206, 214-219, 222
+invenio_cache/proxies.py          7      0   100%
+-----------------------------------------------------------
+TOTAL                           191     12    94%
+======================= 53 passed, 12 warnings in 3.26s ========================
+ Container docker_services_cli-redis-1  Stopping
+ Container docker_services_cli-redis-1  Stopped
+ Container docker_services_cli-redis-1  Removing
+ Container docker_services_cli-redis-1  Removed
+ Network docker_services_cli_default  Removing
+ Network docker_services_cli_default  Removed
